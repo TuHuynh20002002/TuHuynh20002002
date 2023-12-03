@@ -37,9 +37,10 @@ The field that I am researching:
         <tr >
             <td width="50%" style="border: 3px solid purple">
                 <img align="center"src="https://github-readme-stats.vercel.app/api?username=TuHuynh20002002&theme=tokyonight&show_icons=true&count_private=true" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuHuynh20002002&theme=tokyonight&hide_border=false" />
             </td>
             <td width="50%" style="border: 3px solid purple">
-                <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TuHuynh20002002&theme=dark&hide_border=false&no-bg=true&langs_count=6"/>
+                <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TuHuynh20002002&theme=tokyonight&hide_border=false&no-bg=true&langs_count=6"/>
             </td>
         </tr>
     </table>
