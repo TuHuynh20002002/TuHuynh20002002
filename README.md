@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" style="height:200px; width:100%; object-fit: cover; border-radius:10px" />
-<hr>
+<!-- <img src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width=100% height=200px style="object-fit: cover; border-radius:10px" />
+
+<hr> -->
 <!--- title -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px" style=""> I'm Tu Huynh</h1>
 <!--- introduction -->
@@ -11,16 +12,17 @@
 ###
 
 <div style="text-align: justify">
-I'm a boy in an adventure to explore the information technology world. I have enthusiasm in every single aspect of the information system. I have so many things to learn and so many things to share too. I hope my repo could help you in the very first start.
+I'm a boy in an adventure to explore the information technology world. I have enthusiasm in every single aspect of the information system. I have so many things to learn and so many things to share too. I hope my repositories could help you in the very first start.
 <br></br>
 The field that I am researching:
 <br>
 <ul>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> DevSecOps</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Web Development</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Software Development</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Cyber Security</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Artificial Intelligence</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> DevSecOps</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Web Development</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Software Development</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Cyber Security</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> System & Networking</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Artificial Intelligence</li>
 </ul>
 </div>
 
@@ -32,12 +34,12 @@ The field that I am researching:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuHuynh20002002&label=Profile%20views&color=blue&style=flat" alt="TuHuynh20002002" /> </p>
 <p align="center">
     <table align="center">
-        <tr border="none">
-            <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TuHuynh20002002&theme=tokyonight&show_icons=true&count_private=true" />
+        <tr >
+            <td width="50%" style="border: 3px solid purple">
+                <img align="center"src="https://github-readme-stats.vercel.app/api?username=TuHuynh20002002&theme=tokyonight&show_icons=true&count_private=true" />
             </td>
-            <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TuHuynh20002002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            <td width="50%" style="border: 3px solid purple">
+                <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TuHuynh20002002&theme=dark&hide_border=false&no-bg=true&langs_count=6"/>
             </td>
         </tr>
     </table>
