@@ -34,7 +34,7 @@ The field that I am researching:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuHuynh20002002&label=Profile%20views&color=blue&style=flat" alt="TuHuynh20002002" /> </p>
 <p align="center">
     <table align="center">
-        <tr >
+        <tr align="center">
             <td width="50%" style="border: 3px solid purple">
                 <img align="center"src="https://github-readme-stats.vercel.app/api?username=TuHuynh20002002&theme=tokyonight&show_icons=true&count_private=true" />
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuHuynh20002002&theme=tokyonight&hide_border=false" />
