@@ -1,20 +1,34 @@
-### Hi there 👋
+<!-- ## Hi 👋, I'm Tu Huynh -->
 
-<!--
-**tuhuynh20002002/tuhuynh20002002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h2 without bottom border-->
+<div align="center">
+    <h2 style="display: inline-block">Welcome to my Coding world</h2>
+</div>
 
-Here are some ideas to get you started:
+<!--- stats & Trophy (start) -->
+<p align="center">
+    <table align="center">
+        <tr border="none">
+            <td width="50%" align="center">
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tuhuynh20002002&theme=tokyonight&show_icons=true&count_private=true" />
+            </td>
+            <td width="50%" align="center">
+                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuhuynh20002002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            </td>
+        </tr>
+    </table>
+</p>
+<!--- stats (end) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture><img src="https://images.unsplash.com/photo-1700932573406-97cb42468350?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width = 100%>
-</picture>
-
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Learned 👾</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,docker,k8s,bash,linux,nodejs,html,css,js,python,express,flask,rails,mongodb,mysql,postgresql,tensorflow,pytorch,matlab,&perline=10" />
+  </a>
+</p>
