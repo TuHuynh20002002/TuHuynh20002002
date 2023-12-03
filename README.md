@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" style="height:200px; width:100%; object-fit: cover; border-radius:10px" />
 <hr>
 <!--- title -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px" style="">, I'm Tu Huynh</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px" style=""> I'm Tu Huynh</h1>
 <!--- introduction -->
 
 <div align="center">
@@ -16,11 +16,11 @@ I'm a boy in an adventure to explore the information technology world. I have en
 The field that I am researching:
 <br>
 <ul>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-5px"> DevSecOps</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-5px"> Web Development</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-5px"> Software Development</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-5px"> Cyber Security</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-5px"> Artificial Intelligence</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> DevSecOps</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Web Development</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Software Development</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Cyber Security</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" style="width:20px; position:relative; bottom:-10px"> Artificial Intelligence</li>
 </ul>
 </div>
 
