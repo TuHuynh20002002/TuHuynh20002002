@@ -19,7 +19,7 @@ The field that I am researching:
 <ul>
 <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> DevSecOps</li>
 <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Web Development</li>
-<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Software Development</li>
+<li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:1.5mm"> Software Development</li>
 <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Cyber Security</li>
 <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> System & Networking</li>
 <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20px style="position:relative; top:5px"> Artificial Intelligence</li>
@@ -56,6 +56,6 @@ The field that I am researching:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,docker,k8s,bash,linux,nodejs,html,css,js,python,express,flask,rails,mongodb,mysql,postgresql,tensorflow,pytorch,matlab,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,docker,k8s,bash,linux,nodejs,html,css,js,python,c,cpp,express,flask,rails,mongodb,mysql,postgresql,sqlite,tensorflow,pytorch,matlab,&perline=10" />
   </a>
 </p>
