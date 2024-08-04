@@ -1,6 +1,3 @@
-<!-- <img src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width=100% height=200px style="object-fit: cover; border-radius:10px" />
-
-<hr> -->
 <!--- title -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px" style=""> I'm Tu Huynh</h1>
 <!--- introduction -->
