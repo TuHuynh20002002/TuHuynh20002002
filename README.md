@@ -1,6 +1,3 @@
-<!-- <img src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width=100% height=200px style="object-fit: cover; border-radius:10px" />
-
-<hr> -->
 <!--- title -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px" style=""> I'm Tu Huynh</h1>
 <!--- introduction -->
@@ -56,6 +53,6 @@ The field that I am researching:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,k8s,terraform,linux,bash,python,django,nodejs,express,typescript,javascript,html,css,php,laravel,bootstrap,tailwind,mongodb,mysql,postgresql,sqlite,postman&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,k8s,terraform,ansible,linux,bash,python,django,nodejs,express,typescript,javascript,html,css,bootstrap,tailwind,mongodb,mysql,postgresql,sqlite,postman&perline=10"/>
   </a>
 </p>
