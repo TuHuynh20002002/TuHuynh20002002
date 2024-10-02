@@ -51,6 +51,6 @@ The field that I am researching:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,k8s,terraform,ansible,linux,bash,prometheus,python,django,nodejs,express,typescript,javascript,html,css,bootstrap,tailwind,mongodb,mysql,postgresql,sqlite,prisma,postman&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,k8s,terraform,ansible,linux,bash,prometheus,grafana,python,django,nodejs,express,typescript,javascript,html,css,bootstrap,tailwind,mongodb,mysql,postgresql,sqlite,prisma,postman&perline=10"/>
   </a>
 </p>
